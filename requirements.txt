@@ -1,7 +1,10 @@
 streamlit
+pytesseract
 easyocr
 opencv-python
 numpy
 Pillow
 rapidfuzz
 jiwer
+torch
+torchvision
