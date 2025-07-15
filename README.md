@@ -19,7 +19,8 @@ Aplikasi ini secara otomatis membaca teks dari gambar, membersihkan hasilnya, da
 
 ## 🖥️ Demo Aplikasi
 
-🌐 [https://your-username-foodanalyzer.streamlit.app](https://your-username-foodanalyzer.streamlit.app
+Akses versi online:  
+🌐 [https://autoimuneats.streamlit.app](https://autoimuneats.streamlit.app)
 
 ---
 
