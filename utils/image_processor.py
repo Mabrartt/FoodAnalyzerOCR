@@ -8,9 +8,6 @@ import cv2
 
 import pytesseract
 
-# Set path ke tesseract.exe
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
 def image_to_text(image: Union[Image.Image, np.ndarray], preprocess=False) -> str:
     if preprocess:
         if isinstance(image, Image.Image):
