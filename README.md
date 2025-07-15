@@ -41,9 +41,9 @@ FoodAnalyzer/
 │   └── Logo.png                 # Logo aplikasi
 ├── requirements.txt             # Daftar dependency
 └── README.md                    # Dokumentasi ini
-
-
-⚙️ Instalasi Lokal
+```
+---
+## ⚙️ Instalasi Lokal
 Pastikan Python 3.7+ dan pip sudah terpasang.
 
 # 1. Clone repo ini
@@ -60,24 +60,31 @@ pip install -r requirements.txt
 # 4. Jalankan aplikasi
 streamlit run home.py
 
-
-🔤 Bahasa yang Didukung
+---
+## 🔤 Bahasa yang Didukung
 - Bahasa Indonesia (ind)
 - Bahasa Inggris (eng)
 
 Pastikan file ind.traineddata dan eng.traineddata tersedia di direktori tessdata Tesseract.
 
-🧠 Teknologi yang Digunakan
+---
+
+## 🧠 Teknologi yang Digunakan
 1. Streamlit
 2. Tesseract OCR
 3. Pillow
 4. OpenCV
 5. RapidFuzz
 
-🙋‍♀️ Kontribusi
+---
+
+## 🙋‍♀️ Kontribusi
 Kontribusi sangat terbuka!
 Jika kamu ingin menambahkan fitur baru, perbaikan bug, atau daftar pantangan tambahan, silakan buat PR (Pull Request) atau buka issue.
 
+---
 
 💡 Motivasi
 Penderita autoimun sering kali kesulitan mengenali bahan-bahan yang harus dihindari, terutama saat membaca label makanan dengan teks kecil atau tidak familiar. FoodAnalyzer hadir untuk menjawab tantangan ini dengan pendekatan berbasis OCR yang mudah digunakan oleh siapa saja.
+
+---
